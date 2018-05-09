@@ -1,2 +1,2 @@
 # zxyzx.github.io
-host to write my blog, to learn more knowledge
+host to write my blog, to learn more knowledge and skill
